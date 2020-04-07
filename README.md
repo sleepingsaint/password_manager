@@ -1,11 +1,11 @@
-# Password Manager
+# :lock: Password Manager
 
 ## Why Password Manager
 
   * Rather than using one or two passwords you can think of, to use over every website you visit, makes you vulnerable,
-  since it's easy to hack you once the hacker got hold of that password.
-  * So, it better to use a strong, random password, and having so many random passwords, makes it difficult to remember them
-  all. It's better to have a password manager like this to manage all your passwords locally.
+  since it's easy to hack you once the hacker get hold of that password.
+  * So, it better to use a strong, random password and having so many random passwords, makes it difficult to remember them
+  all. It's better to have a password manager like this to manage all your passwords efiiciently.
   * This password manager provides all the features of creating random passwords and storing them securely with powerful encryption.
 
 ## Command Line Password Manager for linux, windows, python script
@@ -89,7 +89,8 @@
   ```
   * Those both commands helps with all the commands you can use and how to use.
   
-  
-  
-  
+## Contact
+
+ * :email: mail me at suryasantosh14523@gmail.com
+ * Instagram Id: surya_yellapu14523
   
